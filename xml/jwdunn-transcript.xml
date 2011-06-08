@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transcript>
+	<name> hot chick</name> 
+	<sid>123-345-1234</sid>
+	<gpa_final> 3.0 </gpa_final>
+	
+	<year category = "freshman">
+		<semester category = "fall">
+			<course>
+				<class>how to drive guys crazy 101</class>
+				<professor> Marilyn Monroe</professor>
+				<grade>85</grade>
+			</course>
+			<course>
+				<class>how to be pretty and smart</class>
+				<professor>susize lu</professor>
+				<grade>60</grade>
+			</course>
+			<course>
+				<class> get a toned body</class>
+				<professor> Ivana Lookgood</professor>
+				<grade>98</grade>
+			</course>
+			<term_gpa> 3.0 </term_gpa>
+		</semester>
+		<semester category = "Spring">
+			<course>
+				<class>seduction</class>
+				<professor> ivanna Unow</professor>
+				<grade>70</grade>
+			</course>
+			<course>
+				<class>how to become famous</class>
+				<professor>Letta Mebe Phamous</professor>
+				<grade>89</grade>
+			</course>
+			<course>
+				<class> how to get a guy</class>
+				<professor> Geetta Guii</professor>
+				<grade>98</grade>
+			</course>
+			<term_gpa> 3.0 </term_gpa>
+		</semester>
+	</year>	
+</transcript>
